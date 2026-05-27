@@ -2,7 +2,7 @@
 title: Oliver Prechtl
 ---
 
-Willkommen.
+Willkommen auf meiner Website.
 
 - [[vita|Vita]]
 - [[projekte|Projekte]]
