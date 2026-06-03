@@ -15,7 +15,7 @@ Von der zeitgenössischen Musik herkommend (alle 3 MusikerInnen arbeiten ebenfal
 
 Seit den Gründertagen producirte sich das Trio mit Unterbrechungen in zahlreichen Konzerten, Veranstaltungen, Performances, Tanztheateraktionen - alleine oder mit geschätzten KollegInnen aus den oben genannten Sparten.
 
-<iframe title="ARNO" src="https://player.vimeo.com/video/1186931103?h=5349c7e84f" width="640"  height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="ARNO" src="https://player.vimeo.com/video/1186931103?h=5349c7e84f&dnt=1" width="640"  height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 - [Konzertmitschnitt bei Saal Frei](https://vimeo.com/966748143)
 - [Konzertmitschnitt in der Pauluskirche Stuttgart](https://vimeo.com/1102442674)

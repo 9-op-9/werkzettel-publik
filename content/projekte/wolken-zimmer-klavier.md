@@ -6,7 +6,7 @@ Dauer: 50-60 Minuten
 Pre-Listening Konzert: 05.02.2023, 17 Uhr, Studio-Konzert bei Klavier Niewienda Schorndorf
 Premiere: 24.11.2023, 20 Uhr, Theater La Lune Stuttgart
 
-<div style="padding:42.52% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/882038072?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Wolken Zimmer Klavier"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:42.52% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/882038072?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Wolken Zimmer Klavier"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Dort wo sich das **Wolken Zimmer Klavier** befindet, steht ein Zeit-Raum zur Verfügung. Da gibt es Miniaturformate zu hören, die Impressionen musikalischer Gedanken darstellen. Da sind sehr unterschiedliche Stücke dabei, teils experimentell, teils traditionell, manche auskomponiert, manche offen für Improvisation, Momentaufnahmen sowie bislang unveröffentlichte Skizzen. Diesen musikalischen Kurzformaten gegenübergestellt präsentieren sich Improvisationen, Stücke die aus dem Moment heraus entstehen. 
 
