@@ -1,17 +1,7 @@
 ---
 title: Instant Act Stuttgart
 ---
+![[Instant-ACT_Instagram_06.jpg]]
+(Grafik: Demian Bern)
 
-
-- Header: Titel + Claim + Bild
-    
-- Abschnitt „Kurzprofil“
-    
-- Abschnitt „Rolle / Credits“
-    
-- Abschnitt „Medien“ (YouTube/Vimeo, Audio, Fotos)
-    
-- Abschnitt „Pressetext / Programmtext“ (optional)
-    
-- Abschnitt „Archivierte Termine“
-	
+- Website der Veranstaltungsreihe Saal Frei: https://www.saalfrei.com/

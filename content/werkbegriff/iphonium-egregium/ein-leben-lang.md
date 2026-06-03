@@ -1,20 +1,20 @@
 ---
 title: Ein Leben lang
 ---
-Ein Leben lang
-aneinander vorbeischrammen
+<big>Ein Leben lang</big>
+<big>aneinander vorbeischrammen</big>
 
-Ein Leben lang
-bequem von zu Hause aus bestellen
+<big>Ein Leben lang</big>
+<big>bequem von zu Hause aus bestellen</big>
 
-Ein Leben lang
-an der Peripherie
+<big>Ein Leben lang</big>
+<big>an der Peripherie</big>
 
-Ein Leben lang
-Patenonkel werden
+<big>Ein Leben lang</big>
+<big>Patenonkel werden</big>
 
-Ein Leben lang
-ästhetisch unentschieden
+<big>Ein Leben lang</big>
+<big>ästhetisch unentschieden</big>
 
-Ein Leben lang
-kein richtiges Leben
+<big>Ein Leben lang</big>
+<big>kein richtiges Leben</big>

@@ -1,12 +1,12 @@
 ---
 title: Lass den Tag hängen!
 ---
-Lass den Tag hängen!
+<big>Lass den Tag hängen!</big>
 
-Freie Zeit verstreichen lassen
-Potenzial ungenutzt lassen
-Möglichkeiten verspielen
-Chance auf eine gelungene
-Tagesgestaltung zusammen vertun
-Vor sich hin dämmern
-Den Tag hängen lassen
+<big>Freie Zeit verstreichen lassen</big>
+<big>Potenzial ungenutzt lassen</big>
+<big>Möglichkeiten verspielen</big>
+<big>Chance auf eine gelungene</big>
+<big>Tagesgestaltung zusammen vertun</big>
+<big>Vor sich hin dämmern</big>
+<big>Den Tag hängen lassen</big>

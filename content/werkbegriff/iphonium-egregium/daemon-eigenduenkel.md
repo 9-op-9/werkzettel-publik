@@ -1,7 +1,7 @@
 ---
 title: Dämon Eigendünkel
 ---
-Dämon Eigendünkel
-zwingt mit Hundeblick
-und mitleidvollem Tonfall
-sein Gegenüber in die Knie
+<big>Dämon Eigendünkel</big>
+<big>zwingt mit Hundeblick</big>
+<big>und mitleidvollem Tonfall</big>
+<big>sein Gegenüber in die Knie</big>

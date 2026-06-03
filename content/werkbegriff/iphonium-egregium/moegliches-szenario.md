@@ -1,13 +1,13 @@
 ---
 title: Mögliches Szenario
 ---
-Mögliches Szenario
+<big>Mögliches Szenario</big>
 
-Kind sein
-Warten auf die Jugend
+<big>Kind sein</big>
+<big>Warten auf die Jugend</big>
 
-Jugendlich sein
-Warten auf's Erwachsensein
+<big>Jugendlich sein</big>
+<big>Warten auf's Erwachsensein</big>
 
-Erwachsen sein
-Warten — und über das Wetter reden
+<big>Erwachsen sein</big>
+<big>Warten — und über das Wetter reden</big>

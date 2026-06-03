@@ -1,3 +1,138 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Werkzettel — Custom Theme
+// Hintergrund: kühles Off-White
+// Schrift: IBM Plex Sans (Body), IBM Plex Mono (Titel)
+// Links: schwarz, unterstrichen
+// Sidebar: schlanker
+
+:root {
+    // Helle Farbpalette
+    --light:        #f4f6f8;  // Hintergrund, kühles Off-White
+    --lightgray:    #e4e8ec;  // dezente Trennlinien
+    --gray:         #9aa3ad;  // gedämpft, für Sekundäres
+    --darkgray:     #4a4f55;  // Untertitel, Meta-Angaben
+    --dark:         #111315;  // Haupttext, fast schwarz
+    --secondary:    #111315;  // Links: ebenfalls schwarz
+    --tertiary:     #4a4f55;  // Hover-Zustand etwas heller
+    --highlight:    rgba(17, 19, 21, 0.05);  // Markierungs-Hintergrund
+    --textHighlight: rgba(17, 19, 21, 0.12);
+  }
+  
+  // Dark Mode — schlicht invertiert
+  :root[saved-theme="dark"] {
+    --light:        #1a1d20;
+    --lightgray:    #2a2e33;
+    --gray:         #6a7079;
+    --darkgray:     #b8bcc2;
+    --dark:         #eef0f2;
+    --secondary:    #eef0f2;
+    --tertiary:     #b8bcc2;
+    --highlight:    rgba(238, 240, 242, 0.05);
+    --textHighlight: rgba(238, 240, 242, 0.15);
+  }
+  
+  // Links: schwarz, immer unterstrichen
+  a {
+    color: var(--secondary) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 1px;
+  
+    &:hover {
+      color: var(--tertiary) !important;
+      text-decoration-thickness: 2px;
+    }
+  
+    // Interne (Wiki-)Links auch unterstrichen
+    &.internal {
+      background-color: transparent;
+      padding: 0;
+    }
+  }
+  
+  // Sidebar schlanker
+  .page > #quartz-body {
+    & > .sidebar {
+      font-size: 0.85rem;
+  
+      &.left {
+        gap: 1rem;
+      }
+    }
+  }
+  
+  // Page-Title (Werkzettel-Logo) etwas zurückgenommen
+  .page-title {
+    font-size: 1.4rem;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+  }
+  
+// Überschriften: dünner als Body, größerer Kontrast
+article {
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: 300;
+      letter-spacing: -0.01em;
+    }
+  
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.5rem; }
+    h3 { font-size: 1.2rem; }
+  }
+  
+  // Body: normales Gewicht, ruhig
+  article p {
+    font-weight: 400;
+    line-height: 1.7;
+  }
+  
+  .explorer {
+    font-size: 0.9rem;
+  
+    & > h2 {
+      font-weight: 500;
+      font-size: 0.95rem;
+      letter-spacing: 0.02em;
+    }
+  
+    // Menü-Einträge: gleiches Gewicht wie Fließtext-Links
+    ul {
+      li {
+        a {
+          font-weight: 500;
+        }
+      }
+    }
+  }
+  
+  // Footer: noch zurückhaltender
+  footer {
+    font-size: 0.75rem;
+    opacity: 0.6;
+  }
+
+// Inhalt auf lesbare Breite begrenzen
+#quartz-body > .center {
+    max-width: 42rem;
+    margin-left: 0;
+    margin-right: auto;
+  }
+  
+  // Mobile: keine Begrenzung
+  @media all and (max-width: 800px) {
+    #quartz-body > .center {
+      max-width: none;
+    }
+  }
+
+// Bilder als Block ohne Phantom-Grundlinie
+article p:has(> img) {
+    line-height: 1.2;
+    margin-bottom: 0.3rem;
+  }
+  
+  article img {
+    display: block;
+    margin-bottom: 0.2rem;
+  }
